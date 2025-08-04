@@ -1,12 +1,10 @@
 # 📘 SoK: Stablecoins for Digital Transformation
 <p align="center">
   <img src="https://img.shields.io/badge/status-under_review-yellow.svg" alt="Status Badge"/>
-  <img src="https://img.shields.io/badge/paper-type-SoK-blueviolet.svg" alt="Paper Type"/>
   <img src="https://img.shields.io/badge/field-Stablecoins%20%26%20RWA-orange.svg" alt="Field Badge"/>
   <img src="https://img.shields.io/badge/python-3.10+-blue.svg" alt="Python Version"/>
   <img src="https://img.shields.io/badge/google-colab-%23F9AB00.svg?&logo=googlecolab&logoColor=white" alt="Colab Badge"/>
   <img src="https://img.shields.io/badge/api-CoinMetrics-informational?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA8AAAAQCAYAAADJViUEAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAACXZwQWcAAAAQAAAAEABcxq3DAAAATUlEQVQoz2NgoBT4T1fx//+fACNsgphAsP4ZIgS8jlA1Q4KSpzDAKq1qA0EAUCiQhgkgNEg0TcwJKHkGwDS9AzjRAY8YGKxGhNsIAClIwBumB6BbgAAAABJRU5ErkJggg==" alt="CoinMetrics API"/>
-  <img src="https://img.shields.io/badge/eth-api-%20Alchemy-4C82FB?logo=ethereum&logoColor=white" alt="Alchemy API"/>
   <img src="https://img.shields.io/badge/visualization-Plotly-3F4C6B?logo=plotly&logoColor=white" alt="Plotly"/>
   <img src="https://img.shields.io/badge/license-MIT-green.svg" alt="License Badge"/>
 </p>
