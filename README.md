@@ -10,7 +10,7 @@ This repository contains the **replication materials** for the study:
 
 > **“SoK: Stablecoins for Digital Transformation — Design, Metrics, and Application with Real World Asset Tokenization as a Case Study”**
 
-All code, data references, and figures are included to support **transparent, reproducible research**, suitable for submission to journals such as **Nature**, **Science**, and top-tier conferences.
+All code, data references, and figures are included to support **transparent, reproducible research** in the Web3 spirit of open science. 
 
 ---
 
@@ -104,6 +104,6 @@ Feel free to:
 ---
 
 <p align="center">
-  <b>Made with ⛓️ Ethereum, 📊 data, and 💡 research</b>
+  <b>Made with ⛓️ Blockchain, 📊 data, and 💡 research</b>
 </p>
 ```
