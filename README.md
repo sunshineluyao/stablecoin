@@ -75,9 +75,23 @@ All dependencies are annotated and explained line-by-line in the notebook.
 
 <div align="center">
 
-![Token Flow](figures/maple_usdc_deposit_sankey.png)
+![Token Flow](figures/maple_usdc_deposit_sankey.png)  
+*Figure 1: Circular Sankey Diagram of USDC → Maple → LP Token*
 
-*Figure: Circular Sankey Diagram of USDC → Maple → LP Token*
+---
+
+![Treasury Flow](figures/stablecoin_treasury_flows_sankey.png)  
+*Figure 2: Sankey Diagram of Stablecoin Treasury and Reserve Asset Flows*
+
+---
+
+![Radar Chart](figures/stablecoin_radar_chart.png)  
+*Figure 3: Design Feature Comparison of Selected Stablecoins (Radar Chart)*
+
+---
+
+![TVL Flow](figures/usdc_tvl_sankey_directional.png)  
+*Figure 4: Directional Sankey of USDC Total Value Locked (TVL) across Protocols*
 
 </div>
 
