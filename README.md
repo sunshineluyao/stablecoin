@@ -78,10 +78,6 @@ All dependencies are annotated and explained line-by-line in the notebook.
 ![Token Flow](figures/maple_usdc_deposit_sankey.png)  
 *Figure 1: Circular Sankey Diagram of USDC → Maple → LP Token*
 
----
-
-![Treasury Flow](figures/usdc_tvl_sankey_directional.png)  
-*Figure 2: Sankey Diagram of UCSD Flows*
 
 ---
 
