@@ -80,7 +80,7 @@ All dependencies are annotated and explained line-by-line in the notebook.
 
 ---
 
-![Treasury Flow](figures/stablecoin_treasury_flows_sankey.png)  
+![Treasury Flow](figures/usdc_tvl_sankey_directional.png)  
 *Figure 2: Sankey Diagram of Stablecoin Treasury and Reserve Asset Flows*
 
 ---
