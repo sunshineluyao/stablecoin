@@ -1,4 +1,4 @@
-# 📘 SoK: Stablecoins for Digital Transformation
+# 📘 SoK: Stablecoins for Digital Transformation [![DOI](https://zenodo.org/badge/1031114109.svg)](https://doi.org/10.5281/zenodo.19349213)
 <p align="center">
   <img src="https://img.shields.io/badge/status-under_review-yellow.svg" alt="Status Badge"/>
   <img src="https://img.shields.io/badge/field-Stablecoins%20%26%20RWA-orange.svg" alt="Field Badge"/>
